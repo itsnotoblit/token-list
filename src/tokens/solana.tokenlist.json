@@ -24657,6 +24657,21 @@
         "Gaming",
         "Gambling"
       ]
+    },  
+    {
+      "chainId": 101,
+      "address": "Gpkodvgqv8FTeLdRictkM1AnNJcZAPiikFuKK1AH4CFE",
+      "symbol": "RCS",
+      "name": "Right Click Save",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/DK0XrQx/download-4.png",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/AavEf9uuwS",
+        "twitter": "https://twitter.com/RCSCoinSOL",
+      }
     },
     {
       "chainId": 101,
